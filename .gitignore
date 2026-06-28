@@ -1,0 +1,102 @@
+# Dependencies
+Attendance_device_config_backend/node_modules
+Attendance_device_config_backend/node_modules
+Attendance_device_config_backend/jspm_packages
+
+# Debug and Log files
+Attendance_device_config_backend/logs
+Attendance_device_config_backend/*.log
+Attendance_device_config_backend/npm-debug.log*
+Attendance_device_config_backend/yarn-debug.log*
+Attendance_device_config_backend/yarn-error.log*
+Attendance_device_config_backend/pnpm-debug.log*
+
+# Runtime data (PIDs and seeds)
+Attendance_device_config_backend/pids
+Attendance_device_config_backend/*.pid
+Attendance_device_config_backend/*.seed
+Attendance_device_config_backend/*.pid.lock
+
+# Environment variables (CRITICAL for backend security)
+Attendance_device_config_backend/.nv
+Attendance_device_config_backend/.env.local
+Attendance_device_config_backend/.env.development
+Attendance_device_config_backend/.env.test
+Attendance_device_config_backend/.env.production
+Attendance_device_config_backend/.env.*.local
+
+# Production Build outputs (if using TypeScript or Babel)
+Attendance_device_config_backend/dist
+Attendance_device_config_backend/build
+Attendance_device_config_backend/*.tsbuildinfo
+
+# Testing (Jest, Mocha, Istanbul, etc.)
+Attendance_device_config_backend/coverage
+Attendance_device_config_backend/.nyc_output
+
+# IDEs and Text Editors
+Attendance_device_config_backend/.idea/
+Attendance_device_config_backend/.vscode/
+Attendance_device_config_backend/*.suo
+Attendance_device_config_backend/*.ntvs*
+Attendance_device_config_backend/*.njsproj
+Attendance_device_config_backend/*.sln
+Attendance_device_config_backend/*.sw?
+
+# Operating System files
+Attendance_device_config_backend/.DS_Store
+Attendance_device_config_backend/Thumbs.db
+
+
+
+
+# Dependencies
+Attendance_device_config_ui-/node_modules/
+Attendance_device_config_ui-/.pnp
+Attendance_device_config_ui-/.pnp.js
+
+# Testing
+Attendance_device_config_ui-/coverage
+
+# Next.js build output
+Attendance_device_config_ui-/.next/
+Attendance_device_config_ui-/out/
+
+# Production build
+
+add Attendance_device_config_ui-/ to all 
+
+Attendance_device_config_ui-/build
+
+# Debug logs
+Attendance_device_config_ui-/npm-debug.log*
+Attendance_device_config_ui-/yarn-debug.log*
+Attendance_device_config_ui-/yarn-error.log*
+Attendance_device_config_ui-/pnpm-debug.log*
+
+# Local environment variables
+# DO NOT commit actual secrets to GitHub!
+
+
+# Next.js Telemetry cache
+Attendance_device_config_ui-/.next/cache/
+
+# TypeScript
+Attendance_device_config_ui-/*.tsbuildinfo
+Attendance_device_config_ui-/next-env.d.ts
+
+# IDEs and Editors
+Attendance_device_config_ui-/.idea/
+Attendance_device_config_ui-/.vscode/
+Attendance_device_config_ui-/*.suo
+Attendance_device_config_ui-/*.ntvs*
+Attendance_device_config_ui-/*.njsproj
+Attendance_device_config_ui-/*.sln
+Attendance_device_config_ui-/*.sw?
+
+# Operating System files
+Attendance_device_config_ui-/.DS_Store
+Attendance_device_config_ui-/Thumbs.db
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
